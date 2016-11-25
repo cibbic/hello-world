@@ -8,4 +8,7 @@ First I need to learn something about *githup*.
 
 ## Testing the Markdown
 
-Looks at $\displaystyle \int_0^{\infnty} e^{-x^2) \, dx$.   Looks like Mathjax is not available.
+Looks at $\displaystyle \int_0^{\infnty} e^{-x^2) \, dx$.   Looks like Mathjax is not available.  
+See 
+[Rendering LaTeX Math Equations in GitHub Markdown](https://www.r-bloggers.com/rendering-latex-math-equations-in-github-markdown/) 
+for a possible workaround.
