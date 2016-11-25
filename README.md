@@ -12,3 +12,8 @@ Looks at $\displaystyle \int_0^{\infnty} e^{-x^2) \, dx$.   Looks like Mathjax i
 See 
 [Rendering LaTeX Math Equations in GitHub Markdown](https://www.r-bloggers.com/rendering-latex-math-equations-in-github-markdown/) 
 for a possible workaround.
+
+
+## Dropbox and GitHub
+
+See [Dropbox and GitHup](https://gist.github.com/edavis/4191457/cdba98e51a4f489481d75cca3c4b8b5f95996beb)
